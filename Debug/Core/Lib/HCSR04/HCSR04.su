@@ -1,0 +1,7 @@
+HCSR04.c:33:10:DWT_Delay_Init	4	static,ignoring_inline_asm
+HCSR04.c:64:22:DWT_Delay_us	24	static
+HCSR04.c:81:6:HCSR04_Init	104	static
+HCSR04.c:173:6:HCSR04_TMR_OVF_ISR	24	static
+HCSR04.c:186:6:HCSR04_TMR_IC_ISR	32	static
+HCSR04.c:220:7:HCSR04_Read	16	static
+HCSR04.c:226:6:HCSR04_Trigger	16	static
